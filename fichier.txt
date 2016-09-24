@@ -2,4 +2,4 @@ ceci est un test en v3
 blalvfjizeioze
 avec l'ajout d'une ligne en plus
 if delire = 0 then omg
-
+else 1=1
